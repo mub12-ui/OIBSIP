@@ -1,4 +1,4 @@
-# 🎙️ Smart Voice Assistant
+# 🎙️ Voice Assistant
 
 A Python-based voice assistant that enables users to interact with their computer using voice commands. The assistant listens to speech, converts it into text, processes commands, and responds through speech.
 
@@ -77,7 +77,7 @@ This project evolved from a beginner-level voice assistant into an advanced smar
 # 📁 Project Structure
 
 ```
-smart-voice-assistant/
+voice-assistant/
 
 ├── assistant/
 │   ├── actions.py
