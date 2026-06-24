@@ -1,8 +1,8 @@
 # OIBSIP Internship Projects
 
-## Task 1 - Smart Voice Assistant
+## Task 1 - Voice Assistant
 
-Python-based Smart Voice Assistant featuring:
+Python-based Voice Assistant featuring:
 
 - Speech Recognition
 - Text-to-Speech
