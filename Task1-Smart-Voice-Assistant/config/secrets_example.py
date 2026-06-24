@@ -1,0 +1,7 @@
+WEATHER_API_KEY = "YOUR_WEATHER_API_KEY"
+
+EMAIL_ADDRESS = "your_email@gmail.com"
+
+EMAIL_PASSWORD = "YOUR_APP_PASSWORD"
+
+TEST_RECEIVER = "receiver_email@gmail.com"
