@@ -1,12 +1,18 @@
 # OIBSIP Internship Projects
 
+This repository contains the projects completed during my Oasis Infobyte Internship Program (OIBSIP).
+
+---
+
 ## Task 1 - Voice Assistant
 
-Python-based Voice Assistant featuring:
+A Python-based Voice Assistant capable of performing various voice-controlled tasks.
+
+### Features
 
 - Speech Recognition
 - Text-to-Speech
-- Time and Date
+- Time and Date Information
 - Web Search
 - Weather Updates
 - Email Sending
@@ -15,4 +21,65 @@ Python-based Voice Assistant featuring:
 - Smart Home Controls
 - Custom Commands
 
-Author: Mubashar Usman
+### Project Folder
+
+```text
+MuhammadMubashar_Task1/
+```
+
+---
+
+## Task 2 - BMI Calculator
+
+A Python-based BMI (Body Mass Index) Calculator developed from a command-line application to an advanced GUI application.
+
+### Features
+
+#### Beginner Features
+
+- BMI Calculation
+- BMI Categorization
+- Input Validation
+- Error Handling
+
+#### Advanced Features
+
+- Graphical User Interface (Tkinter)
+- User Data Storage using JSON
+- Historical BMI Record Viewing
+- BMI Statistics Analysis
+- BMI Trend Visualization using Matplotlib
+- Multiple User Support
+- Timestamp Tracking
+
+### Technologies Used
+
+- Python
+- Tkinter
+- JSON
+- Matplotlib
+
+### Project Folder
+
+```text
+MuhammadMubashar_Task2/
+```
+
+---
+
+## Repository Structure
+
+```text
+OIBSIP/
+├── MuhammadMubashar_Task1/
+├── MuhammadMubashar_Task2/
+└── README.md
+```
+
+---
+
+## Author
+
+**Muhammad Mubashar**
+
+GitHub: https://github.com/mub12-ui
