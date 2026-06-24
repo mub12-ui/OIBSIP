@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Mubashar",
+        "weight": 70.0,
+        "height": 1.75,
+        "bmi": 22.86,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:34:15"
+    },
+    {
+        "name": "Usman",
+        "weight": 100.0,
+        "height": 1.75,
+        "bmi": 32.65,
+        "category": "Obese",
+        "timestamp": "2026-06-25 02:34:55"
+    },
+    {
+        "name": "Muhammad",
+        "weight": 70.0,
+        "height": 1.75,
+        "bmi": 22.86,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:41:47"
+    },
+    {
+        "name": "Mubasahr",
+        "weight": 54.0,
+        "height": 1.75,
+        "bmi": 17.63,
+        "category": "Underweight",
+        "timestamp": "2026-06-25 02:42:00"
+    },
+    {
+        "name": "Usman",
+        "weight": 60.0,
+        "height": 1.75,
+        "bmi": 19.59,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:42:13"
+    },
+    {
+        "name": "Ehsan",
+        "weight": 65.0,
+        "height": 1.75,
+        "bmi": 21.22,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:42:25"
+    },
+    {
+        "name": "Ali",
+        "weight": 55.0,
+        "height": 1.8,
+        "bmi": 16.98,
+        "category": "Underweight",
+        "timestamp": "2026-06-25 02:46:06"
+    },
+    {
+        "name": "Hassan",
+        "weight": 63.0,
+        "height": 1.8,
+        "bmi": 19.44,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:46:30"
+    },
+    {
+        "name": "Jamal",
+        "weight": 80.0,
+        "height": 1.8,
+        "bmi": 24.69,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:46:56"
+    },
+    {
+        "name": "Jamal",
+        "weight": 47.0,
+        "height": 1.2,
+        "bmi": 32.64,
+        "category": "Obese",
+        "timestamp": "2026-06-25 02:47:51"
+    },
+    {
+        "name": "Zaman",
+        "weight": 69.0,
+        "height": 1.73,
+        "bmi": 23.05,
+        "category": "Normal weight",
+        "timestamp": "2026-06-25 02:48:39"
+    }
+]
