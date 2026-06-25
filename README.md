@@ -67,12 +67,51 @@ MuhammadMubashar_Task2/
 
 ---
 
+## Task 3 - Random Password Generator
+
+A Python-based Random Password Generator developed from a command-line application to an advanced GUI application.
+
+### Features
+
+#### Beginner Features
+
+- Random Password Generation
+- Custom Password Length
+- Letters, Numbers, and Symbols Selection
+- User Input Validation
+- Character Set Handling
+
+#### Advanced Features
+
+- Graphical User Interface (Tkinter)
+- Strong Password Generation Rules
+- Clipboard Integration
+- Character Exclusion Customization
+- Error Handling and Validation
+- User-Friendly Interface
+
+### Technologies Used
+
+- Python
+- Tkinter
+- random
+- string
+
+### Project Folder
+
+```text
+MuhammadMubashar_Task3/
+```
+
+---
+
 ## Repository Structure
 
 ```text
 OIBSIP/
 ├── MuhammadMubashar_Task1/
 ├── MuhammadMubashar_Task2/
+├── MuhammadMubashar_Task3/
 └── README.md
 ```
 
